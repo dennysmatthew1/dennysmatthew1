@@ -11,6 +11,14 @@
 
 - 📫 Reach me at **nmatthewsoft@gmail.com**
 
+<h3 align="left">Currently, I'm Working on These Organizations:</h3>
+<p align="left">
+<a href="https://github.com/Matthew-Soft" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/73598203?s=60&v=4" alt="MatthewSoft" height="30" width="40" /></a> 
+<a href="https://github.com/PopsicleInc" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/80011508?s=60&v=4" alt="Popsicle Inc." height="30" width="40" /></a>
+<a href="https://github.com/Red-Timer-Roleplay" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/79471598?s=60&v=4" alt="Red Timer Roleplay" height="30" width="40" /></a>
+
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/DennysMatthew" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="DennysMatthew" height="30" width="40" /></a>
