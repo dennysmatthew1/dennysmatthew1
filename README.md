@@ -31,4 +31,4 @@
 
 [![dennysmatthew1's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennysmatthew1&count_private=true&theme=onedark)](https://github.com/dennysmatthew1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennysmatthew1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennysmatthew1&layout=compact)](https://github.com/dennysmatthew1)
