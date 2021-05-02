@@ -29,6 +29,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://discord.js.org/" target="_blank"> <img src="https://discord.js.org/static/icons/apple-touch-icon.png" alt="discord.js" width="40" height="40"/> </a> </p>
 
-[![dennysmatthew1's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennysmatthew1&count_private=true&theme=onedark)](https://github.com/dennysmatthew1)
+[![dennysmatthew1's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNZTMPZ&count_private=true&theme=onedark)](https://github.com/GNZTMPZ)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennysmatthew1&layout=compact)](https://github.com/dennysmatthew1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNZTMPZ&layout=compact)](https://github.com/GNZTMPZ)
