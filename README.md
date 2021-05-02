@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋</h1>
 <h3 align="center">I'm Dennys Matthew!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennysmatthew1&label=Profile%20views&color=00bac7&style=flat" alt="dennysmatthew1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GNZTMPZ&label=Profile%20views&color=00bac7&style=flat" alt="GNZTMPZ" /> </p>
 
 - 🔭 I’m currently working on [Relay Bot](https://relay.matthewsoft.eu.org) and [Popsicle Discord Bot](https://github.com/PopsicleInc)
 
