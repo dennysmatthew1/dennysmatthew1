@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python** and **Golang**
 
-- 💬 Ask me about **Web Programming**.
+- 💬 Ask me about **Web Programming Related** (Including Discord Bot aswell :smirk:).
 
 - 📫 Reach me at **[admin@matthewsoft.my.id](mailto:admin@matthewsoft.my.id)**
 
