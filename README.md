@@ -21,5 +21,4 @@
 </p>
 
 [![dennysmatthew1's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNZTMPZ&count_private=true&theme=onedark)](https://github.com/GNZTMPZ)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNZTMPZ&layout=compact)](https://github.com/GNZTMPZ)
