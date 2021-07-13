@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GNZTMPZ&label=Profile%20views&color=00bac7&style=flat" alt="GNZTMPZ" /> </p>
 
-- 🔭 I’m currently working on [Relay Bot](https://relay.matthewsoft.eu.org), [Popsicle Discord Bot](https://github.com/PopsicleInc), [Kungkingkang Community](https://github.com/KungkingkangCommunity), and [Red Timer Roleplay](https://github.com/Red-Timer-Roleplay)
+- 🔭 I’m currently working on [Rudy Discord Bot](https://rudy.matthewsoft.eu.org), [Popsicle Discord Bot](https://github.com/PopsicleInc), [Kungkingkang Community](https://github.com/KungkingkangCommunity), and [Red Timer Roleplay](https://github.com/Red-Timer-Roleplay)
 
 - 🌱 I’m currently learning **Python** and **Golang**
 
